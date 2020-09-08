@@ -4,5 +4,8 @@ packer_cache/
 # Crash log
 crash.log
 
+# For ISO files
+*.iso
+
 # For built boxes
 *.box
